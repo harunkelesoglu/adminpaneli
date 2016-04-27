@@ -1,5 +1,5 @@
-Proje bir yemek tarifi sitesi için bana verilen veritabanına göre yaptığım yönetim panelidir.Veritabanı çok iyi tasarlanmamıştı bu yüzden kodlar biraz karışık gelebilir ama anlaşılabilir olması için çabaladım :D
-Temayı hazır aldım. http://codecanyon.net/item/47admin-bootstrap-admin-skin/7647583
+
+Tema http://codecanyon.net/item/47admin-bootstrap-admin-skin/7647583
 
 <h1>Proje Sınıflar,metodlar ve görevleri</h1>
 <h2>Sınıflar</h2>
